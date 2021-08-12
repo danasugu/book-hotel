@@ -118,10 +118,10 @@
   list-style: none;
   margin-top: 3.5rem;
 
-  // @media only screen and (max-width: $bp-medium) {
-  //   display: flex;
-  //   margin: 0;
-  // }
+  @media only screen and (max-width: $bp-medium) {
+    display: flex;
+    margin: 0;
+  }
 
   &__item {
     position: relative;
